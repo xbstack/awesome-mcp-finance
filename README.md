@@ -35,6 +35,7 @@ In the finance world, MCP acts as the **standardized connector** between the LLM
 
 We focus on building **Personal Sovereign Wealth Systems** using AI.
 
+*   **[Bible]** [Building a Production-Ready AI Trading Agent (LongBridge API)](https://xbstack.com/ai/how-to-build-ai-trading-agent) - 5000+ words engineering guide.
 *   **[Core]** [How to Build an AI Research Agent (ArXiv + Finance)](https://xbstack.com/ai/how-to-build-ai-research-agent) - 3000+ words deep dive.
 *   **[Strategy]** [The 10,000,000 RMB Roadmap: Compounding Logic for Engineers](https://xbstack.com/investing/roadmap-to-ten-million)
 *   **[Tool]** [Interactive Compound Interest Visualizer](https://xbstack.com/tools/compound-calculator)
