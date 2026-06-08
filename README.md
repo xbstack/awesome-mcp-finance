@@ -24,10 +24,13 @@ In the finance world, MCP acts as the **standardized connector** between the LLM
 
 ### 📈 Quant & Analysis
 - [**mcp-quant-connect**](https://github.com/example/mcp-quant) - Connect your AI agent to QuantConnect for backtesting.
-- [**mcp-excel-bridge**](https://github.com/example/mcp-excel) - Let AI read and write complex financial models directly in `.xlsx`.
+- [**mcp-excel-bridge**](https://github.com/example/mcp-excel) - Let AI read and write complex financial models directly in .xlsx.
 
 ### 📰 News & Sentiment
 - [**mcp-news-triage**](https://xbstack.com/ai/ai-github-issue-triage-agent) - *[Case Study]* Using AI agents to filter and categorize market-moving news via Webhooks.
+
+### 🔐 Agent Trust & Payments
+- [**TWZRD Agent Intel**](https://intel.twzrd.xyz) - Trust scoring for AI agent wallets on Solana. Verify agent identity and transaction history before x402 micropayments. Remote MCP: {"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}
 
 ---
 
