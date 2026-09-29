@@ -32,6 +32,7 @@ In the finance world, MCP acts as the **standardized connector** between the LLM
 - [**mcp-doc-audit**](https://xbstack.com/ai/comparison-of-ai-document-analysis-agents/) - *[Benchmark]* Comparing AI agents for complex PDF/Annual Report parsing in 2026.
 - [**mcp-log-audit**](https://xbstack.com/ai/ai-log-analysis-agent/) - *[Tutorial]* AI agents for DevOps observability and financial infrastructure monitoring.
 - [**mcp-excel-bridge**](https://github.com/example/mcp-excel) - Let AI read and write complex financial models directly in `.xlsx`.
+- [**Statsnet MCP**](https://github.com/usenetstate/statsnet-mcp) - Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` · Registry: `io.github.usenetstate/statsnet`.
 
 ### 📰 News & Sentiment
 - [**mcp-news-triage**](https://xbstack.com/ai/ai-github-issue-triage-agent/) - *[Case Study]* Using AI agents to filter and categorize market-moving news via Webhooks.
