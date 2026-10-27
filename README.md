@@ -19,6 +19,7 @@ In the finance world, MCP acts as the **standardized connector** between the LLM
 ## 🛠️ MCP Servers for Finance
 
 ### 📊 Market Data & Finance Ops
+- [**Agent Payment Node**](https://github.com/nuanu-ai/agent-payment-node) - Local CLI and stdio MCP tools for x402 offer inspection, bounded payment preparation, status and receipts; Apple Silicon macOS/Node.js 24, owner-controlled spending, and separate network/provider fees.
 - [**mcp-expense-approval**](https://xbstack.com/ai/how-to-build-an-ai-expense-approval-agent/) - *[Tutorial]* Automating business expense validation and multi-agent approval workflows.
 - [**mcp-server-yahoo-finance**](https://github.com/modelcontextprotocol/servers/tree/main/src/yfinance) - Official MCP server for real-time stock quotes, historical data, and financial statements via Yahoo Finance.
 - [**mcp-sina-finance**](https://xbstack.com) - *[Tutorial]* How to build a custom MCP server for A-Share market data (Sina/EastMoney).
