@@ -21,6 +21,7 @@ In the finance world, MCP acts as the **standardized connector** between the LLM
 ### 📊 Market Data & Finance Ops
 - [**mcp-expense-approval**](https://xbstack.com/ai/how-to-build-an-ai-expense-approval-agent/) - *[Tutorial]* Automating business expense validation and multi-agent approval workflows.
 - [**mcp-server-yahoo-finance**](https://github.com/modelcontextprotocol/servers/tree/main/src/yfinance) - Official MCP server for real-time stock quotes, historical data, and financial statements via Yahoo Finance.
+- [**trading-signals-mcp**](https://github.com/gdietsch/trading-signals-mcp) - Pay-per-call market data for AI agents: ES futures event-risk gate, SEC insider buys, and AI trade briefs. Free tier or $0.01 USDC via x402.
 - [**mcp-sina-finance**](https://xbstack.com) - *[Tutorial]* How to build a custom MCP server for A-Share market data (Sina/EastMoney).
 
 ### 📈 Quant, CRM & Sales Analysis
