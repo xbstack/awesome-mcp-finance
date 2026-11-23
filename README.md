@@ -36,6 +36,7 @@ In the finance world, MCP acts as the **standardized connector** between the LLM
 ### 📰 News & Sentiment
 - [**mcp-news-triage**](https://xbstack.com/ai/ai-github-issue-triage-agent/) - *[Case Study]* Using AI agents to filter and categorize market-moving news via Webhooks.
 - [**mcp-meeting-audit**](https://xbstack.com/ai/how-to-build-ai-meeting-summarization-agent/) - *[Tutorial]* Transforming meeting audio into auditable financial records and TODOs.
+- [**flowfeed-mcp**](https://github.com/loyt1/flowfeed-mcp) - Real-time macro, forex and crypto news plus economic calendar for AI agents.
 
 ---
 
